@@ -1,6 +1,5 @@
 ## 페트병 분리배출을 위한 YOLOv7 기반 자동 분류 시스템(YOLOv7 Based Automatic Classification System for Separate Discharge of PET Bottles)
 
--------------------------------------
 ### 2022-11-23 최초 Update
 
 -------------------------------------
